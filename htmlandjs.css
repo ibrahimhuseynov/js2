@@ -1,0 +1,44 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: aquamarine;
+}
+
+.add {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.add input {
+    height: 40px;
+    width: 650px;
+}
+
+.add button {
+    height: 40px;
+    width: 150px;
+}
+
+.rimote ul {
+    height: 100vh;
+    width: 620px;
+    background-color: rgb(150, 34, 34);
+    padding-top: 5px;
+}
+
+.rimote {
+    padding-left: 350px;
+}
+
+li {
+    display: inline-block;
+    height: 35px;
+    width: 600px;
+    padding-top: 5px;
+    margin: 2px;
+    background-color: antiquewhite;
+}
+
+span {
+    float: right;
+}
